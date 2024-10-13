@@ -7,5 +7,6 @@
 		public string? Surname { get; set; }
 		public int Age { get; set; }
 		public double GPA { get; set; }
+		public double Weight { get; set; } // added
 	}
 }
